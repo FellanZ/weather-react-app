@@ -12,15 +12,23 @@ function App() {
       <footer>
         <footer>
           This project was coded by{" "}
-          <a href="" target="_blank">
+          <a href="https://github.com/fellanz" target="_blank" rel="noreferrer">
             Felicia Z
           </a>
           , open-sourced on{" "}
-          <a href="" target="_blank">
+          <a
+            href="https://github.com/FellanZ/weather-react-app"
+            target="_blank"
+            rel="noreferrer"
+          >
             GitHub
           </a>{" "}
           and hosted on{" "}
-          <a href="" target="_blank">
+          <a
+            href="https://github.com/FellanZ/weather-react-app"
+            target="_blank"
+            rel="noreferrer"
+          >
             Netlify
           </a>
           .
