@@ -25,7 +25,7 @@ function App() {
           </a>{" "}
           and hosted on{" "}
           <a
-            href="https://github.com/FellanZ/weather-react-app"
+            href="https://my-weather-react-page.netlify.app/"
             target="_blank"
             rel="noreferrer"
           >
