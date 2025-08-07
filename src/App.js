@@ -3,10 +3,10 @@ import Weather from "./Weather";
 
 import "./App.css";
 
-function App() {
+export default function App() {
   return (
     <div className="App">
-      <header className="App-header">
+      <header className="container">
         <Weather />
       </header>
       <footer>
@@ -37,5 +37,3 @@ function App() {
     </div>
   );
 }
-
-export default App;
